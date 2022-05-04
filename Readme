@@ -1,0 +1,8 @@
+# This is a basic R introduction (Since 22.05.04)
+## Learning from [FreeCodeCamp.org]("https://youtu.be/_V8eKsto3Ug"): This is a 2 hr R intro step by step. Highly recommended.
+
+1. How to use R codes on Colab
+2. Basic plots
+3. Types of data
+4. Dataframe
+5. Importing files (csv, txt)
